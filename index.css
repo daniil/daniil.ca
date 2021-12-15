@@ -36,6 +36,11 @@ li {
   font-weight: 400;
   font-size: 1.25rem;
 }
+a {
+  text-decoration: none;
+  border-bottom: 2px solid #A53F2B;
+  padding-bottom: 0.25rem;
+}
 a:link,
 a:visited {
   color: #CD543C;
@@ -43,4 +48,5 @@ a:visited {
 a:hover,
 a:active {
   color: #A53F2B;
+  border-bottom: 2px solid #823221;
 }
